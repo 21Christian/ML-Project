@@ -1,0 +1,8 @@
+pandas_profiling==3.6.6
+pandas_profiling==3.6.6
+pandas_profiling==3.6.6
+mlxtend==0.21.0
+mlxtend==0.21.0
+imblearn==0.0
+xgboost==1.7.3
+missingno==0.5.1
